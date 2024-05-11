@@ -13,7 +13,7 @@ import { connect } from 'cloudflare:sockets';
 
 let userID = 'cf67bdba-ef2c-4e74-96b6-a2d9f6be0c47';
 
-let proxyIP = ['proxy.alighadrboland.ir','proxyy.alighadrboland.ir','proxyyy.alighadrboland.ir','proxyyyy.alighadrboland.ir','proxyyyyy.alighadrboland.ir'];
+let proxyIP = ['pa.alighadrboland.ir'];
 
 let dohURL = 'https://one.one.one.one/dns-query';
 
